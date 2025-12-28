@@ -9,6 +9,7 @@ Protótipo simples, porém totalmente funcional, que atua como uma interface par
 ### INSTRUÇÕES PARA RODAR 
 ### LISTA DE DEPENDÊNCIAS 
 ### EXEMPLO DE USO 
+## <img width="863" height="881" alt="Captura de tela 2025-12-28 191836" src="https://github.com/user-attachments/assets/28aff372-2722-4f06-bb1e-78dc92b9221b" />
 ### DOCKERFILE 
 ### TESTES UNITÁRIOS
 
