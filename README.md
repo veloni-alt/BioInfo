@@ -8,8 +8,13 @@ Protótipo simples, porém totalmente funcional, que atua como uma interface par
 - Interface: HTML (Estrutura e estilização básica para a exibição dos dados.)
 ### INSTRUÇÕES PARA RODAR 🚀
 Siga as instruções do vídeo para configurar e rodar o projeto em sua máquina local.
+## https://github.com/user-attachments/assets/3af3425c-dc38-4ed5-b018-2f254d309ac9
 ### LISTA DE DEPENDÊNCIAS 
 Crie um ambiente virtual e instale as dependências listadas no item requirements.txt.
 ### EXEMPLO DE USO 
 ## <img width="863" height="881" alt="Captura de tela 2025-12-28 191836" src="https://github.com/user-attachments/assets/28aff372-2722-4f06-bb1e-78dc92b9221b" />
+
+
+
+
 
