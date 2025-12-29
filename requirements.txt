@@ -1,1 +1,3 @@
-
+# Dependências do seu projeto Flask + Requests
+Flask>=2.0.0
+requests>=2.25.0
