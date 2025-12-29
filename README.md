@@ -12,6 +12,4 @@ Siga as instruções do vídeo para configurar e rodar o projeto em sua máquina
 Crie um ambiente virtual e instale as dependências listadas no item requirements.txt.
 ### EXEMPLO DE USO 
 ## <img width="863" height="881" alt="Captura de tela 2025-12-28 191836" src="https://github.com/user-attachments/assets/28aff372-2722-4f06-bb1e-78dc92b9221b" />
-### DOCKERFILE 
-### TESTES UNITÁRIOS
 
